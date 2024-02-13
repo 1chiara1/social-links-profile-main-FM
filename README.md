@@ -27,7 +27,7 @@ design/my-page-active.png
 ### Links
 
 - Solution URL: https://github.com/1chiara1/social-links-profile-main-FM
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://1chiara1.github.io/social-links-profile-main-FM/index.html
 
 ## My process
 
